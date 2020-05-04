@@ -1,0 +1,20 @@
+@media screen and (max-width: 767px){
+    .banner-container-news{
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+    }
+
+    .news-info{
+        padding-top: 0;
+    }
+
+    .grid-container-posts{
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .container-contact-suscribe{
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+    }
+
+}
